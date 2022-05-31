@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="55px"
+   height="55px"
+   viewBox="0 0 170 170"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="button_minus.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="24.483572"
+     inkscape:cy="22.273864"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="144.24978,86.400694"
+       orientation="0,-1"
+       id="guide3354" />
+    <sodipodi:guide
+       position="86.87771,66.183868"
+       orientation="1,0"
+       id="guide3356" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;stroke-width:2.75378"
+       id="path59"
+       d="" />
+    <path
+       style="fill:#000000;stroke-width:2.75378"
+       id="path21"
+       d="" />
+    <ellipse
+       style="fill:#333333;stroke-width:3.63973;stroke-opacity:0"
+       id="path1626"
+       cx="85.23851"
+       cy="84.692108"
+       rx="84.145706"
+       ry="82.5065" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:405.979px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.1495"
+       x="10.811596"
+       y="201.90767"
+       id="text2700"
+       transform="scale(1.1220773,0.8912042)"><tspan
+         sodipodi:role="line"
+         id="tspan2698"
+         style="fill:#ffffff;stroke-width:10.1495"
+         x="10.811596"
+         y="201.90767">-</tspan></text>
+  </g>
+</svg>
