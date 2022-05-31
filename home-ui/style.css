@@ -18,17 +18,13 @@
 
 body {
     margin: 0;
-    font-family:  'Roboto', sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-image: linear-gradient(to top, #b5f1b3 0%, #d2f4a7);
 
 }
 
 /*///////////////Header////////////////*/
-/*.header{
-    position: fixed;
-    top: 0;
-    width: 100%;
-}*/
+
 .header {
     display: flex;
     justify-content: space-between;
@@ -54,25 +50,8 @@ h1 {
     width: 100%;
 }
 
-ul {
-    padding: 0;
-}
-
-ul li {
-    display: inline;
-}
-
-ul li a {
+nav.menu-nav ul li a {
     margin: 0 1rem 0 1rem;
-}
-
-ul li:first-child {
-    margin-left: 0;
-}
-
-nav.menu-nav ul li a img {
-    width: 50px;
-    margin: 7px;
 }
 
 /*Menu navegation end*/
@@ -100,21 +79,28 @@ h2.location {
 
 .nickname {
     text-transform: uppercase;
-    color: 538568;
+    color: #538568;
     font-size: 1rem;
 }
 
+ul li {
+    display: inline;
+    /* Propiety applied to menu-nav and boxes*/
+}
+
+nav.menu-nav ul {
+    padding-left: 0;
+}
 
 /*//////////////Boxes/////////////////*/
-main {
-
+#list-of-boxes {
+    padding-left: 50PX ;   
 }
 .box {
     display: inline-block;
     background-color: #77cfb7;
     border-radius: 20px;
     margin: 15px 3px 15px 3px;
-
 }
 
 .active {
@@ -142,6 +128,7 @@ main {
 .row {
     width: auto;
 }
+
 .cell {
     width: 45px;
     height: 45px;
@@ -155,34 +142,6 @@ div.content div.cell img {
     margin: auto;
     width: 90%;
 
-}
-
-.button-next:hover {
-    background-color: #ffffff;
-    width: 45px;
-    border-radius: 50%;
-    box-shadow: -3px 0px 5px gray;
-    opacity: 70%;
-}
-
-.button-next {
-    position: fixed;
-    right: 0;
-    top: 50%;
-    width: 45px;
-    border-radius: 50%;
-}
-.button-previous:hover {
-    background-color: #ffffff;
-    width: 45px;
-    border-radius: 50%;
-    box-shadow: 3px 0px 5px gray;
-    opacity: 70%;
-}
-.button-previous {
-    position: fixed;
-    left: 0;
-    top: 50%;
 }
 
 /*/////////////Footer////////////////////*/
@@ -214,18 +173,22 @@ div.menu-options div.options a {
     font-weight: bold;
     display: flex;
     flex-direction: row;
-    align-items: center;  
+    align-items: center;
 }
+
 .options {
     margin-right: 3rem;
-    
+
 }
+
 .options:last-child {
     margin-right: 0;
 }
+
 a.button-menu {
     margin: 1rem;
 }
+
 a.button-menu span {
     margin-left: 5px;
 }
