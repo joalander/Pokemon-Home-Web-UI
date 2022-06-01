@@ -94,7 +94,7 @@ nav.menu-nav ul {
 
 /*//////////////Boxes/////////////////*/
 #list-of-boxes {
-    padding-left: 50PX ;   
+    margin: 0 0 100px 0;   
 }
 .box {
     display: inline-block;
@@ -178,7 +178,6 @@ div.menu-options div.options a {
 
 .options {
     margin-right: 3rem;
-
 }
 
 .options:last-child {
