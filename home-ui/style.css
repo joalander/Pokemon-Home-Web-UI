@@ -54,6 +54,9 @@ nav.menu-nav ul li a {
     margin: 0 1rem 0 1rem;
 }
 
+div.navegation a img:hover {
+    background-color: #538568;
+}
 /*Menu navegation end*/
 
 h2.location {
