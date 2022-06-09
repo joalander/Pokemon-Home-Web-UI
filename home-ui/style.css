@@ -96,14 +96,18 @@ nav.menu-nav ul {
 }
 
 /*//////////////Boxes/////////////////*/
-#list-of-boxes {
-    margin: 0 0 100px 0;   
+#section-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 50px 70px 50px;   
 }
 .box {
     display: inline-block;
     background-color: #77cfb7;
     border-radius: 20px;
-    margin: 15px 3px 15px 3px;
+    margin: 5px 5px 5px 5px;
 }
 
 .active {
