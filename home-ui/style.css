@@ -194,3 +194,6 @@ a.button-menu {
 a.button-menu span {
     margin-left: 5px;
 }
+div.options img {
+    width: 30px;
+}
